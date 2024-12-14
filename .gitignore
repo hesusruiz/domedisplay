@@ -1,0 +1,24 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.db-shm
+*.db-wal
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Pocketbase data directory
+pb_data/
+
+# SQLite databases
+*.sqlite

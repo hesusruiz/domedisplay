@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <script src="css-scope-inline.js"></script>
+    <script src="surreal.js"></script>
+    <script src="validate.js"></script>
+    <link rel="stylesheet" href="w3.css" />
+    <link rel="stylesheet" href="dome.css">
+    <link href="print.css" media="print" rel="stylesheet" />
+
+    <link
+  href="https://fonts.googleapis.com/css2?family=Blinker:wght@100;200;300;400;600;700;800;900&family=Caladea:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+  rel="stylesheet">
+    <link rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=check_circle,counter_1,counter_2,counter_3" />
+
+
+    <script>
+        // Set here the default home page for the app, before loading app.js
+        window.homePage = "CatalogHome"
+        window.myAppTitle = "DOME Catalog"
+        // Configure the menu items, with entries like:
+        //    {page:"NameOfPage", text:"Text in menu item", params: object to pass to page}
+        window.menuItems = [
+            { page: "CatalogHome", text: "Home", params: "" },
+            { page: "LogsPage", text: "Show technical logs" },
+            { page: "ConfirmResetApp", text: "Reset application" }
+        ]
+        // The page mapping
+        window.pageModules = PUT_PAGEMAP_HERE
+
+        window.Ionic = {
+            config: {
+            mode: 'ios',
+            },
+        };
+
+    </script>
+
+    <!-- Load the application -->
+    <!-- <link rel="stylesheet" href="PUT_APP_CSS_NAME_HERE" /> -->
+    <script type="module" src="PUT_APP_JS_NAME_HERE"></script>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="DOME Onboarding" />
+    <meta name="theme-color" content="#919597">
+    <title>DOME Onboarding</title>
+    <meta itemprop="name" content="DOME Onboarding">
+    <meta itemprop="description" content="DOME Onboarding">
+    <!-- Facebook Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="DOME Onboarding">
+    <meta property="og:description"
+        content="Privacy-focused Wallet for Verifiable Credentials">
+    <!-- <link rel="manifest" href="./manifest.webmanifest"> -->
+
+    <link rel="icon" type="image/png" href="./favicon.ico" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="DOME Onboarding" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <link href="prism.css" rel="stylesheet">
+    <style>
+    @font-face {
+        font-family: "Roboto";
+        src: url("./fonts/Roboto-Regular.ttf") format("truetype");
+    }
+    
+    @font-face {
+        font-family: "Roboto";
+        src: url("./fonts/Roboto-Medium.ttf") format("truetype");
+        font-weight: 450 500;
+    }
+
+    </style>
+    <style>
+        .material-symbols-outlined {
+          font-variation-settings:
+            'FILL' 1,
+            'wght' 500,
+            'GRAD' 0,
+            'opsz' 40
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <header></header>
+
+    <main></main>
+
+    <footer></footer>
+
+    <script src="prism.js"></script>
+
+</body>
+
+</html>

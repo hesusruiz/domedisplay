@@ -1,0 +1,488 @@
+[
+    {
+        "id": "urn:ngsi-ld:catalog:cb88b3af-6ae0-447b-b82d-2ae8ed35e92b",
+        "href": "urn:ngsi-ld:catalog:cb88b3af-6ae0-447b-b82d-2ae8ed35e92b",
+        "description": "",
+        "lifecycleStatus": "Retired",
+        "name": "FICODES",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:2ec7d6e5-289b-4cb2-9345-783298c9139c",
+                "href": "urn:ngsi-ld:organization:2ec7d6e5-289b-4cb2-9345-783298c9139c",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-25T13:04:51.269Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:b395cc49-1c31-461a-8c13-aae642f03edd",
+        "href": "urn:ngsi-ld:catalog:b395cc49-1c31-461a-8c13-aae642f03edd",
+        "description": "Next level IoT and Digital Twins",
+        "lifecycleStatus": "Launched",
+        "name": "Elliot Cloud",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:f389dd59-c26d-4868-bdfc-d90e4556744d",
+                "href": "urn:ngsi-ld:organization:f389dd59-c26d-4868-bdfc-d90e4556744d",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-25T14:06:59.687Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:ff0a247f-4e00-49b4-8b81-bd0bf89e0fd9",
+        "href": "urn:ngsi-ld:catalog:ff0a247f-4e00-49b4-8b81-bd0bf89e0fd9",
+        "description": "AI-driven Digital Twins of urban systems as cloud services for city administrations to monitor performance and audit the compliance",
+        "lifecycleStatus": "Launched",
+        "name": "Golem",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:32611feb-6f78-4ccd-a4a2-547cb01cf33d",
+                "href": "urn:ngsi-ld:organization:32611feb-6f78-4ccd-a4a2-547cb01cf33d",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-25T14:13:33.427Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:4c5500c2-f9d7-43d0-91a8-7eff5048e1c4",
+        "href": "urn:ngsi-ld:catalog:4c5500c2-f9d7-43d0-91a8-7eff5048e1c4",
+        "description": "Our livestock farming digital services offer real-time market price data, comprehensive animal metrics, and insights from IoT devices.",
+        "lifecycleStatus": "Launched",
+        "name": "digitanimal",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:816448f3-3d67-4bac-8649-ee0e6c5cc878",
+                "href": "urn:ngsi-ld:organization:816448f3-3d67-4bac-8649-ee0e6c5cc878",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-25T14:42:27.653Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:8d5664ff-1846-4461-bd0f-0607027ccf25",
+        "href": "urn:ngsi-ld:catalog:8d5664ff-1846-4461-bd0f-0607027ccf25",
+        "description": "Enterprise private and certified cloud services",
+        "lifecycleStatus": "Launched",
+        "name": "Engineering D.HUB S.p.A",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:6142e51d-80e4-4ea4-add2-db3438f7ed5c",
+                "href": "urn:ngsi-ld:organization:6142e51d-80e4-4ea4-add2-db3438f7ed5c",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-25T16:05:14.371Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:5fc32881-1433-404a-ba84-ec09c301a926",
+        "href": "urn:ngsi-ld:catalog:5fc32881-1433-404a-ba84-ec09c301a926",
+        "description": "",
+        "lifecycleStatus": "Obsolete",
+        "name": "",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:a15739a5-976f-4cee-afa4-57e03f444017",
+                "href": "urn:ngsi-ld:organization:a15739a5-976f-4cee-afa4-57e03f444017",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-25T22:19:47.462Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:e6fd8b70-4723-40ff-b6e3-cb7d771540c9",
+        "href": "urn:ngsi-ld:catalog:e6fd8b70-4723-40ff-b6e3-cb7d771540c9",
+        "description": "",
+        "lifecycleStatus": "Obsolete",
+        "name": "",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:a15739a5-976f-4cee-afa4-57e03f444017",
+                "href": "urn:ngsi-ld:organization:a15739a5-976f-4cee-afa4-57e03f444017",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-25T22:45:56.224Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:1bd59f35-15b2-40ea-9244-acf0c3542ad9",
+        "href": "urn:ngsi-ld:catalog:1bd59f35-15b2-40ea-9244-acf0c3542ad9",
+        "description": "Cloud services for manufacturing SMEs and production automation providers.",
+        "lifecycleStatus": "Launched",
+        "name": "European Dynamics S.A.",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:76cfa304-4937-4d46-85c6-8291ed58f1be",
+                "href": "urn:ngsi-ld:organization:76cfa304-4937-4d46-85c6-8291ed58f1be",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-26T05:25:20.498Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:3cedbce0-f380-4fd8-823a-f2a2d6b71bc8",
+        "href": "urn:ngsi-ld:catalog:3cedbce0-f380-4fd8-823a-f2a2d6b71bc8",
+        "description": "Welcome to IDOM's Smart Ports Services Catalog,  driving digital transformation in maritime logistics through advanced data management and technology integration.",
+        "lifecycleStatus": "Launched",
+        "name": "IDOM",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:d817c6a0-5b5e-4cbc-b1b9-786396c69f49",
+                "href": "urn:ngsi-ld:organization:d817c6a0-5b5e-4cbc-b1b9-786396c69f49",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-26T06:26:58.759Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:f4e2e821-a481-4eed-96dc-9ac89e1eb8b2",
+        "href": "urn:ngsi-ld:catalog:f4e2e821-a481-4eed-96dc-9ac89e1eb8b2",
+        "description": "Services for sovereign AI development.",
+        "lifecycleStatus": "Launched",
+        "name": "E-Group",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:329042d4-f150-44c4-8f5b-41077d6d61bd",
+                "href": "urn:ngsi-ld:organization:329042d4-f150-44c4-8f5b-41077d6d61bd",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-26T08:17:04.829Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:98c2fc48-c25d-4832-b3a8-9d426bedb3bb",
+        "href": "urn:ngsi-ld:catalog:98c2fc48-c25d-4832-b3a8-9d426bedb3bb",
+        "description": "CSI Piemonte or simply CSI means “Consorzio per il Sistema Informativo del Piemonte” is a public ICT company since 1977. CSI is also a Cloud Service Provider and its cloud is called Nivola, made by the Public Administration for the Public Administration. Nivola is qualified in the Italian Strategic Hub (ACN) to manage critical data of public agencies and entities by design.",
+        "lifecycleStatus": "Launched",
+        "name": "CSI Piemonte",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:9a658fbf-aa4a-49bc-bb7d-2103bcdc4aa5",
+                "href": "urn:ngsi-ld:organization:9a658fbf-aa4a-49bc-bb7d-2103bcdc4aa5",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-26T08:31:05.508Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:ca20713c-7ad6-4c33-81a6-cf155cba4716",
+        "href": "urn:ngsi-ld:catalog:ca20713c-7ad6-4c33-81a6-cf155cba4716",
+        "description": "Software house specialized in consultancy and solutions for Industry 4.0 and Public Administration.",
+        "lifecycleStatus": "Launched",
+        "name": "TEAMDEV S.R.L.",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:87e0aaeb-fe6f-4007-9d5f-1b57fea29b8d",
+                "href": "urn:ngsi-ld:organization:87e0aaeb-fe6f-4007-9d5f-1b57fea29b8d",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-26T09:16:59.029Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:ff038f13-c64e-47e0-ae4b-b07d5502e598",
+        "href": "urn:ngsi-ld:catalog:ff038f13-c64e-47e0-ae4b-b07d5502e598",
+        "description": "TOP-IX network services",
+        "lifecycleStatus": "Launched",
+        "name": "TOP-IX consortium",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:fa1018c2-aa33-4186-8cfc-d794266a4d25",
+                "href": "urn:ngsi-ld:organization:fa1018c2-aa33-4186-8cfc-d794266a4d25",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-26T09:24:16.997Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:518533f8-745d-45f4-9401-b30532851079",
+        "href": "urn:ngsi-ld:catalog:518533f8-745d-45f4-9401-b30532851079",
+        "description": "EHT is a joint stock consortium company. A group of 82 companies and 49 investor members. It is an aggregator of innovative SMEs of national interest, a reference point for Italy digitization process. Each of the companies in the group is an active part of the change and contributes to our success story. EHT can operate as a stable consortium of companies for participation in public contracts, taking on the role of general contractor for contracts in the public and private sectors, especially in the ICT. ",
+        "lifecycleStatus": "Launched",
+        "name": "EHT",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:31f669e9-e2a3-41fa-bb90-72f02c691521",
+                "href": "urn:ngsi-ld:organization:31f669e9-e2a3-41fa-bb90-72f02c691521",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-06-26T13:11:27.783Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:c296b718-6bc4-4da5-b2b8-98aa9b2d8c98",
+        "href": "urn:ngsi-ld:catalog:c296b718-6bc4-4da5-b2b8-98aa9b2d8c98",
+        "description": "Get to know all available cutting and milling tool related service offered by inno-focus digital.",
+        "lifecycleStatus": "Launched",
+        "name": "inno-focus",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:db7b28c5-f2f5-4d66-ab02-dfaa4eb68a19",
+                "href": "urn:ngsi-ld:organization:db7b28c5-f2f5-4d66-ab02-dfaa4eb68a19",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-01T12:22:47.634Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:6de2547d-33cb-410a-b70f-baed4a28ce9f",
+        "href": "urn:ngsi-ld:catalog:6de2547d-33cb-410a-b70f-baed4a28ce9f",
+        "description": "Complete IoT solutions to improve competitiveness for industries, businesses and smart cities",
+        "lifecycleStatus": "Launched",
+        "name": "Libelium",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:85095929-ab35-44ab-b763-c20c1316e1fc",
+                "href": "urn:ngsi-ld:organization:85095929-ab35-44ab-b763-c20c1316e1fc",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-02T07:28:23.093Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:edc2c30c-5a84-4c80-8133-ca3e41bc583e",
+        "href": "urn:ngsi-ld:catalog:edc2c30c-5a84-4c80-8133-ca3e41bc583e",
+        "description": "**IoT** and **digital twin** brought to the **next level**",
+        "lifecycleStatus": "Obsolete",
+        "name": "old_old_elliot_cloud",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:f389dd59-c26d-4868-bdfc-d90e4556744d",
+                "href": "urn:ngsi-ld:organization:f389dd59-c26d-4868-bdfc-d90e4556744d",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-02T14:09:15.315Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:a39012f8-3799-49fd-94bf-b48257ae264e",
+        "href": "urn:ngsi-ld:catalog:a39012f8-3799-49fd-94bf-b48257ae264e",
+        "description": "**IoT and Digital Twin** brought to the **next level**",
+        "lifecycleStatus": "Obsolete",
+        "name": "Elliot Cloud_nw3",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:f389dd59-c26d-4868-bdfc-d90e4556744d",
+                "href": "urn:ngsi-ld:organization:f389dd59-c26d-4868-bdfc-d90e4556744d",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-02T15:26:41.304Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:8ab914ae-1b44-4e17-940d-80807f235792",
+        "href": "urn:ngsi-ld:catalog:8ab914ae-1b44-4e17-940d-80807f235792",
+        "description": "BEIA Software Services",
+        "lifecycleStatus": "Launched",
+        "name": "Software Services",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:a15739a5-976f-4cee-afa4-57e03f444017",
+                "href": "urn:ngsi-ld:organization:a15739a5-976f-4cee-afa4-57e03f444017",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-03T09:18:46.096Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:aabf5eb6-7aad-4ad1-a928-3d87deb79f85",
+        "href": "urn:ngsi-ld:catalog:aabf5eb6-7aad-4ad1-a928-3d87deb79f85",
+        "description": "Your cloud for big data",
+        "lifecycleStatus": "Launched",
+        "name": "CloudFerro",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:0f78a04d-41b4-4004-8cd9-3b2bf93b3dcb",
+                "href": "urn:ngsi-ld:organization:0f78a04d-41b4-4004-8cd9-3b2bf93b3dcb",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-03T11:21:31.837Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:f6d54e27-e66a-4eee-aa55-7617b5273c15",
+        "href": "urn:ngsi-ld:catalog:f6d54e27-e66a-4eee-aa55-7617b5273c15",
+        "description": "IN2 is a technology consultancy company, with nearly three decades of experience, supporting businesses on their journey towards digital transformation. IN2 stands out by having software components, aligned with European directives and organizations, such as EBSI and EUDI; enabling the management of the entire lifecycle of verifiable credentials.",
+        "lifecycleStatus": "Launched",
+        "name": "IN2",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:1b0cb0ed-5fb8-4a95-8c57-33018af32c2f",
+                "href": "urn:ngsi-ld:organization:1b0cb0ed-5fb8-4a95-8c57-33018af32c2f",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-04T13:53:00.123Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:6139019e-772c-4ba0-af97-15cb81e59d77",
+        "href": "urn:ngsi-ld:catalog:6139019e-772c-4ba0-af97-15cb81e59d77",
+        "description": "IONOS is the web hosting and cloud partner for small and medium-sized businesses",
+        "lifecycleStatus": "Launched",
+        "name": "IONOS Cloud",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:dab0fe49-5c1e-4601-8903-a866280a2c99",
+                "href": "urn:ngsi-ld:organization:dab0fe49-5c1e-4601-8903-a866280a2c99",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-05T18:07:53.603Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:5b296633-51ae-42d3-a0d5-527447856e56",
+        "href": "urn:ngsi-ld:catalog:5b296633-51ae-42d3-a0d5-527447856e56",
+        "description": "Qualified Trusted Electronic Services Provider. Suppliers of identity verification and electronic signature according to European eIDAS regulation, and ISO-27001 certified.\n\nWe design and implement technological solutions in the field of electronic signatures and legally valid evidence for communications, contracts, and digital notifications.\n\nWeb: https://digitelts.com\n\nEmail: info@digitelts.com\n",
+        "lifecycleStatus": "Launched",
+        "name": "DigitelTS",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:e27da2df-d961-421e-8329-8a6398ccd03d",
+                "href": "urn:ngsi-ld:organization:e27da2df-d961-421e-8329-8a6398ccd03d",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-08T08:06:12.167Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:5d37d03f-5856-4f5a-b5f0-3e3243b683e6",
+        "href": "urn:ngsi-ld:catalog:5d37d03f-5856-4f5a-b5f0-3e3243b683e6",
+        "description": "TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description TEstsssssssssssssssssssssseeeeeeeeeeeeeeeeeee random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description random description ",
+        "lifecycleStatus": "Retired",
+        "name": "aa Test Catalaguieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:240fd04e-f38a-4f10-bd9b-a5bc9f322bad",
+                "href": "urn:ngsi-ld:organization:240fd04e-f38a-4f10-bd9b-a5bc9f322bad",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-22T08:08:11.443Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:ebc75afa-6d11-4353-876e-5a18a48accc9",
+        "href": "urn:ngsi-ld:catalog:ebc75afa-6d11-4353-876e-5a18a48accc9",
+        "description": "dddd",
+        "lifecycleStatus": "Retired",
+        "name": "ddd",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:240fd04e-f38a-4f10-bd9b-a5bc9f322bad",
+                "href": "urn:ngsi-ld:organization:240fd04e-f38a-4f10-bd9b-a5bc9f322bad",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-07-22T09:19:17.639Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:71424271-bbf2-4609-aa89-94a75ffd168b",
+        "href": "urn:ngsi-ld:catalog:71424271-bbf2-4609-aa89-94a75ffd168b",
+        "description": "OUTSCALE, a Dassault Systèmes'brand, is the leading sovereign and sustainable operator of experiences as a service. We modernize the way organizations operate through our virtual twin approach, thereby empowering public organizations and companies to fully harness the power of their data, through three types of experiences: Cloud Experience, Business Process, and Business Experience. At OUTSCALE, we put sovereignty at the heart of our solutions, enabling our clients to have full control over their strategic information while taking advantage from the best in cyber governance. As a responsible company, we optimize the energy efficiency of our infrastructure and encourage our clients to adopt sustainable practices.",
+        "lifecycleStatus": "Launched",
+        "name": "OUTSCALE, DASSAULT SYSTÈMES",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:a292c7de-ed52-4034-afd7-1ac121fdb08a",
+                "href": "urn:ngsi-ld:organization:a292c7de-ed52-4034-afd7-1ac121fdb08a",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-10-18T12:06:46.610Z"
+        }
+    },
+    {
+        "id": "urn:ngsi-ld:catalog:46232c2e-552b-487c-ae60-229840cb4c8c",
+        "href": "urn:ngsi-ld:catalog:46232c2e-552b-487c-ae60-229840cb4c8c",
+        "description": "wer",
+        "lifecycleStatus": "Active",
+        "name": "wer",
+        "relatedParty": [
+            {
+                "id": "urn:ngsi-ld:organization:85095929-ab35-44ab-b763-c20c1316e1fc",
+                "href": "urn:ngsi-ld:organization:85095929-ab35-44ab-b763-c20c1316e1fc",
+                "role": "Owner",
+                "@referredType": ""
+            }
+        ],
+        "validFor": {
+            "startDateTime": "2024-12-05T06:48:56.825Z"
+        }
+    }
+]
